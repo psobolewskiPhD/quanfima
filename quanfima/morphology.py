@@ -8,7 +8,7 @@ from skimage import feature, measure, filters
 from skimage.util.shape import view_as_blocks
 from scipy import ndimage as ndi
 from scipy.spatial import distance
-import vigra
+# import vigra
 import pandas as pd
 from multiprocessing import Pool
 from quanfima import cuda_available
